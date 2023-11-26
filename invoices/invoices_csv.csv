@@ -1,0 +1,5 @@
+Invoice Type,Period Start,Period End,Details
+Legal Entity,26/11/2023,30/11/2023,"{'company_name': 'Moore PLC', 'services': {'Air environment research': 443.66}}"
+Legal Entity,01/11/2023,30/11/2023,"{'company_name': 'Moore PLC', 'services': {'Air environment research': 443.66}}"
+Individual,26/11/2023,30/11/2023,"{'full_name': 'Shubham K', 'phone_number': '7896541230', 'services': {'Air environment research': 443.66}}"
+Individual,26/11/2023,30/11/2023,"{'full_name': 'Kush K', 'phone_number': '7896541230', 'services': {'Disposal of batteries': 361.88, 'Air environment research': 443.66}}"
